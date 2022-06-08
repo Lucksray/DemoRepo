@@ -7,6 +7,7 @@ Demonstration Repository
 
 ### Section 1
 Hello World
+Secret cheese
 
 #### 1.1
 Lorem ipsum,
